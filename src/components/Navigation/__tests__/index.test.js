@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, cleanup } from '@testing-library/react';
+import { render, cleanup, screen } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 import Navigation from '..';
 
@@ -16,14 +16,15 @@ describe('Navigation component', () => {
     });
 });
 
-describe('links are visible', () => {
-    it('inserts text into the links', () => {
-        const { getByTestId } = render(<Navigation />);
-
-        expect(getByTestId('link')).toHaveTextContent('Kayla Backus');
-        expect(getByTestId('about')).toHaveTextContent('About Me');
-        expect(getByTestId('portfolio')).toHaveTextContent('Portfolio');
-        expect(getByTestId('contact')).toHaveTextContent('Contact Me');
-        expect(getByTestId('resume')).toHaveTextContent('Resume');
-    });
-});
+test('renders navigation links', () => {
+    render(<Navigation />);
+    const aboutLink = screen.getByText(/About Me/i);
+    const portfolioLink = screen.getByText(/Portfolio/i);
+    const contactLink = screen.getByText(/Contact Me/i);
+    const resumeLink = screen.getByText(/Resume/i);
+    
+    expect(aboutLink).toBeInTheDocument();
+    expect(portfolioLink).toBeInTheDocument();
+    expect(contactLink).toBeInTheDocument();
+    expect(resumeLink).toBeInTheDocument();
+})
