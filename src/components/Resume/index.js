@@ -3,7 +3,7 @@ import React from 'react';
 function Resume() {
     return (
         <section>
-            <h1>Resume</h1>
+            <h1 id="resume">Resume</h1>
             <a href="https://drive.google.com/file/d/111ou3cnN_gI37WTGRt6mHbKfyMoHSBm6/view" target="_blank" rel="noreferrer">Download my resume.</a>
             <h2>Skills</h2>
             <ul>
