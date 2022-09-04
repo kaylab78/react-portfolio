@@ -4,27 +4,29 @@ function Navigation() {
     return (
         <header>
             <h2>
-                <a href="/">Kayla Backus</a>
+                <a data-testid="link" href="/">
+                    Kayla Backus
+                </a>
             </h2>
             <nav>
                 <ul>
                     <li>
-                        <a href="#about">
+                        <a data-testid="about" href="#about">
                             About Me
                         </a>
                     </li>
                     <li>
-                        <a href="#portfolio">
+                        <a data-testid="portfolio" href="#portfolio">
                             Portfolio
                         </a>
                     </li>
                     <li>
-                        <a href="#contact">
+                        <a data-testid="contact" href="#contact">
                             Contact Me
                         </a>
                     </li>
                     <li>
-                        <a href="#resume">
+                        <a data-testid="resume" href="#resume">
                             Resume
                         </a>
                     </li>

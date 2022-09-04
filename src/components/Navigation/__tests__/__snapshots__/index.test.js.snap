@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation component matches snapshot 1`] = `
+<DocumentFragment>
+  <header>
+    <h2>
+      <a
+        href="/"
+      >
+        Kayla Backus
+      </a>
+    </h2>
+    <nav>
+      <ul>
+        <li>
+          <a
+            href="#about"
+          >
+            About Me
+          </a>
+        </li>
+        <li>
+          <a
+            href="#portfolio"
+          >
+            Portfolio
+          </a>
+        </li>
+        <li>
+          <a
+            href="#contact"
+          >
+            Contact Me
+          </a>
+        </li>
+        <li>
+          <a
+            href="#resume"
+          >
+            Resume
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+</DocumentFragment>
+`;
