@@ -5,13 +5,13 @@ function Footer() {
         <footer>
             <ul>
                 <li>
-                    <a data-testid="github" href="https://github.com/kaylab78" target="_blank" rel="noreferrer">GitHub</a>
+                    <a href="https://github.com/kaylab78" target="_blank" rel="noreferrer">GitHub</a>
                 </li>
                 <li>
-                    <a data-testid="linkedin" href="https://www.linkedin.com/in/kaylabackus/" target="_blank" rel="noreferrer">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/kaylabackus/" target="_blank" rel="noreferrer">LinkedIn</a>
                 </li>
                 <li>
-                    <a data-testid="stackoverflow" href="https://stackoverflow.com/users/18535171/kayla" target="_blank" rel="noreferrer">Stack Overflow</a>
+                    <a href="https://stackoverflow.com/users/18535171/kayla" target="_blank" rel="noreferrer">Stack Overflow</a>
                 </li>
             </ul>
         </footer>

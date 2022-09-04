@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, cleanup } from '@testing-library/react';
+import { render, cleanup, screen } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 import Footer from '..';
 
@@ -16,12 +16,13 @@ describe('Footer component', () => {
     });
 });
 
-describe('links are visible', () => {
-    it('inserts text into links', () => {
-        const { getByTestId } = render(<Footer />);
-
-        expect(getByTestId('github')).toHaveTextContent('GitHub');
-        expect(getByTestId('linkedin')).toHaveTextContent('LinkedIn');
-        expect(getByTestId('stackoverflow')).toHaveTextContent('Stack Overflow');
-    });
+// Test template from App.test.js that the Create React App CLI came with.
+test('renders footer links', () => {
+    render(<Footer />);
+    const githubLink = screen.getByText(/GitHub/i);
+    const linkedinLink = screen.getByText(/LinkedIn/i);
+    const stackoverflowLink = screen.getByText(/Stack Overflow/i);
+    expect(githubLink).toBeInTheDocument();
+    expect(linkedinLink).toBeInTheDocument();
+    expect(stackoverflowLink).toBeInTheDocument();
 });
