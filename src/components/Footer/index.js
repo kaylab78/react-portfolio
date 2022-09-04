@@ -5,6 +5,9 @@ function Footer() {
         <footer>
             <ul>
                 <li>
+                    &copy; 2022 Kayla Backus
+                </li>
+                <li>
                     <a href="https://github.com/kaylab78" target="_blank" rel="noreferrer">GitHub</a>
                 </li>
                 <li>

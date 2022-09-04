@@ -5,6 +5,9 @@ exports[`Footer component matches snapshot 1`] = `
   <footer>
     <ul>
       <li>
+        © 2022 Kayla Backus
+      </li>
+      <li>
         <a
           href="https://github.com/kaylab78"
           rel="noreferrer"
