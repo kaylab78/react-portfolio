@@ -25,5 +25,5 @@ describe('links are visible', () => {
         expect(getByTestId('portfolio')).toHaveTextContent('Portfolio');
         expect(getByTestId('contact')).toHaveTextContent('Contact Me');
         expect(getByTestId('resume')).toHaveTextContent('Resume');
-    })
-})
+    });
+});
