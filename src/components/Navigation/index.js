@@ -1,39 +1,19 @@
-import React from 'react';
+import React from "react";
 
-function Navigation() {
-    return (
-        <header>
-            <h2>
-                <a href="/">
-                    Kayla Backus
-                </a>
-            </h2>
-            <nav>
-                <ul>
-                    <li>
-                        <a href="#about">
-                            About Me
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#portfolio">
-                            Portfolio
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#contact">
-                            Contact Me
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#resume">
-                            Resume
-                        </a>
-                    </li>
-                </ul>
-            </nav>
-        </header>
-    );
+function Navigation(props) {
+  const { pages = [], setCurrentPage, currentPage } = props;
+
+  return (
+    <nav>
+      <ul>
+        {pages.map((Page) => (
+          <li className={`${currentPage.name === Page.name && "navActive"}`} key={Page.name}>
+            <span onClick={() => setCurrentPage(Page)}>{Page.name}</span>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  );
 }
 
 export default Navigation;
