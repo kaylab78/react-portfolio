@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Portfolio component matches snapshot 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+      id="portfolio"
+    >
+      Portfolio
+    </h1>
+    <div
+      class="project-flex"
+    >
+      <div>
+        <p
+          class="project-title"
+        >
+          Parkour app homepage | 
+          <a
+            href="https://github.com/kaylab78/playground-rating-app"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://parkour-review.herokuapp.com/"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="Parkour app homepage"
+          class="project-img"
+          src="0-parkour.png"
+        />
+      </div>
+      <div>
+        <p
+          class="project-title"
+        >
+          Social network api tests | 
+          <a
+            href="https://github.com/kaylab78/social-network-api"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://youtu.be/eYGa59kQyzg"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="Social network api tests"
+          class="project-img"
+          src="1-social-api.png"
+        />
+      </div>
+      <div>
+        <p
+          class="project-title"
+        >
+          Tech blog homepage | 
+          <a
+            href="https://github.com/kaylab78/mvc-tech-blog"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://agile-headland-59274.herokuapp.com/"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="Tech blog homepage"
+          class="project-img"
+          src="2-tech-blog.png"
+        />
+      </div>
+      <div>
+        <p
+          class="project-title"
+        >
+          E-commerce backend tests | 
+          <a
+            href="https://github.com/kaylab78/ecommerce-backend"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://drive.google.com/file/d/1cxtB_hTSnTHoa6z3OZ4_vcVrn0AR1BPO/view"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="E-commerce backend tests"
+          class="project-img"
+          src="3-ecommerce-backend.png"
+        />
+      </div>
+      <div>
+        <p
+          class="project-title"
+        >
+          Weather dashboard of Minneapolis forecast | 
+          <a
+            href="https://github.com/kaylab78/weather-dashboard"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://kaylab78.github.io/weather-dashboard/"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="Weather dashboard of Minneapolis forecast"
+          class="project-img"
+          src="4-weather-dashboard.png"
+        />
+      </div>
+      <div>
+        <p
+          class="project-title"
+        >
+          Note taker app homepage | 
+          <a
+            href="https://github.com/kaylab78/note-taker"
+          >
+            GitHub
+          </a>
+           | 
+          <a
+            href="https://note-taker-20220704.herokuapp.com/"
+          >
+            View Project
+          </a>
+        </p>
+        <img
+          alt="Note taker app homepage"
+          class="project-img"
+          src="5-note-taker.png"
+        />
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;
