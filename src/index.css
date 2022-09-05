@@ -44,7 +44,7 @@ h2 a {
   font-size: 1.5em;
 }
 
-h2 a:visited {
+a:visited {
   color: var(--fourth-color);
 }
 
@@ -65,6 +65,28 @@ nav ul li {
   padding: 5px;
 }
 
+/* Components */
+.components {
+  padding: 0 20px;
+}
+
+/* Portfolio */
+.project-flex {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.project-title {
+  margin-bottom: 2px;
+  text-align: center;
+}
+
+.project-img {
+  width: 100%;
+  margin-bottom: 10px;
+}
 
 /* Footer */
 footer {
@@ -86,7 +108,14 @@ footer ul li a {
   text-decoration: none;
 }
 
-footer ul li a:visited {
-  color: var(--fourth-color);
-  text-decoration: none;
+/* Media Query for devices larger than 980px */
+@media screen and (min-width: 980px) {
+/* Portfolio */
+.project-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+}
 }

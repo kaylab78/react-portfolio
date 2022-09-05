@@ -5,6 +5,8 @@ import Portfolio from '../Portfolio';
 import Contact from '../Contact';
 import Resume from '../Resume';
 
+// 2U Boot Camp Tutor Meg Meyers helped
+
 function Page({ currentPage }) {
     const pageRender = () => {
         switch (currentPage.name) {

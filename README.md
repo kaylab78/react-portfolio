@@ -39,3 +39,9 @@ This project is licensed under the MIT license.
 
 ## Credits
 Boot Camp Module 20
+
+Boot Camp Tutor Meg Meyers helped with conditionally rendering the different components on the page.
+
+Coyier, C. (20216, May 25). *Sticky Footer, Five Ways.* CSS-Tricks. [https://css-tricks.com/couple-takes-sticky-footer/](https://css-tricks.com/couple-takes-sticky-footer/)
+
+*CSS Links.* (n.d.). W3Schools. Retrieved September 5, 2022, from [https://www.w3schools.com/css/css_link.asp](https://www.w3schools.com/css/css_link.asp)

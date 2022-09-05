@@ -3,6 +3,7 @@ import React from "react";
 function Navigation(props) {
   const { pages = [], setCurrentPage, currentPage } = props;
 
+  // Reference: 2U Boot Camp Tutor Meg Meyers
   return (
     <nav>
       <ul>

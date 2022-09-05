@@ -44,7 +44,7 @@ function Portfolio() {
     return (
         <section>
             <h1 id="portfolio">Portfolio</h1>
-            <div>
+            <div className="project-flex">
                 {projects.map((project, index) => (<Project project={project} key={"project"+index}/>))}
             </div>
         </section>

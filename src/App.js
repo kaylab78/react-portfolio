@@ -4,6 +4,7 @@ import Navigation from "./components/Navigation";
 import Page from "./components/Page";
 import Footer from "./components/Footer";
 
+// 2U Boot Camp Tutor Meg Meyers helped with conditional rendering the components.
 function App() {
   const [pages] = useState([
     {
@@ -34,7 +35,7 @@ function App() {
             ></Navigation>
           </Header>
         </header>
-        <main>
+        <main className="components">
           <Page currentPage={currentPage}></Page>
         </main>
       </div>
