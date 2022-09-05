@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      <a
+        href="/"
+      >
+        Kayla Backus
+      </a>
+    </h2>
+  </div>
+</DocumentFragment>
+`;

@@ -1,18 +1,17 @@
 import React from 'react';
-import { render, cleanup } from '@testing-library/react';
+import { render, cleanup, screen } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
-import About from '..';
+import Header from '..';
 
 afterEach(cleanup);
 
-describe('About component', () => {
+describe('Header component', () => {
     it('renders', () => {
-        render(<About />);
+        render(<Header />);
     });
 
     it('matches snapshot', () => {
-        const { asFragment } = render(<About />);
-
+        const { asFragment } = render(<Header />);
         expect(asFragment()).toMatchSnapshot();
     });
 });
