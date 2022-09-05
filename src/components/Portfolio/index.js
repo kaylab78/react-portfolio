@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Project from '../Project';
 
 function Portfolio() {
-    const [apps] = useState([
+    const [projects] = useState([
         {
             name: 'Parkour app homepage',
             appUrl: 'https://parkour-review.herokuapp.com/',
@@ -43,7 +43,10 @@ function Portfolio() {
 
     return (
         <section>
-        <h1>Portfolio</h1>
+            <h1>Portfolio</h1>
+            <div>
+                {projects.map((project, index) => (<Project project={project} key={"project"+index}/>))}
+            </div>
         </section>
     )
 };
