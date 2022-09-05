@@ -7,7 +7,7 @@ function Navigation(props) {
     <nav>
       <ul>
         {pages.map((Page) => (
-          <li className={`${currentPage.name === Page.name && "navActive"}`} key={Page.name}>
+          <li className={`${currentPage.name === Page.name && "highlight"}`} key={Page.name}>
             <span onClick={() => setCurrentPage(Page)}>{Page.name}</span>
           </li>
         ))}
