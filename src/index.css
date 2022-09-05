@@ -1,6 +1,8 @@
 :root {
-  --first-color: #E3D0D8;
-  --second-color: #827081;
+  --first-color: #f5ebe0;
+  --second-color: #d5bdaf;
+  --third-color: #e3d5ca;
+  --fourth-color: #e07a5f;
 }
 
 body {
@@ -25,20 +27,66 @@ code {
   flex: 1 0 auto;
 }
 
+/* Header & Navigation */
+header {
+  background-color: var(--third-color);
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  margin-bottom: 0;
+}
+
+h2 a {
+  color: var(--fourth-color);
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+h2 a:visited {
+  color: var(--fourth-color);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+nav ul li {
+  padding: 10px;
+}
+
 .highlight {
   background-color: var(--second-color);
-  color: #fff;
   padding: 5px;
 }
 
+
+/* Footer */
 footer {
   flex-shrink: 0;
-  margin-right: 5px;
+  margin-right: 10px;
+  margin-top: 50px;
 }
 
 footer ul {
   list-style: none;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
   gap: 10px;
+}
+
+footer ul li a {
+  color: var(--fourth-color);
+  text-decoration: none;
+}
+
+footer ul li a:visited {
+  color: var(--fourth-color);
+  text-decoration: none;
 }
