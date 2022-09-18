@@ -25,21 +25,19 @@ function App() {
 
   return (
     <div>
-      <div className="content">
-        <header>
-          <Header>
-            <Navigation
-              pages={pages}
-              setCurrentPage={setCurrentPage}
-              currentPage={currentPage}
-            ></Navigation>
-          </Header>
-        </header>
-        <main className="components">
-          <Page currentPage={currentPage}></Page>
-        </main>
-      </div>
-      <Footer></Footer>
+      <header>
+        <Header>
+          <Navigation
+            pages={pages}
+            setCurrentPage={setCurrentPage}
+            currentPage={currentPage}
+          ></Navigation>
+        </Header>
+      </header>
+      <main className="components">
+        <Page currentPage={currentPage}></Page>
+      </main>
+      <Footer />
     </div>
   );
 }

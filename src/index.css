@@ -5,6 +5,11 @@
   --fourth-color: #e07a5f;
 }
 
+html, body {
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -12,7 +17,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin: 0;
-  height: 100%;
+  padding: 0;
   background-color: var(--first-color);
   display: flex;
   flex-direction: column;
@@ -21,10 +26,6 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.content {
-  flex: 1 0 auto;
 }
 
 /* Header & Navigation */
@@ -68,7 +69,7 @@ nav ul li {
 
 /* Components */
 .components {
-  padding: 0 20px;
+  padding: 50px 30px;
 }
 
 /* Portfolio */
@@ -118,9 +119,13 @@ nav ul li {
 
 /* Footer */
 footer {
-  flex-shrink: 0;
   margin-right: 10px;
   margin-top: 50px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--first-color);
 }
 
 footer ul {
