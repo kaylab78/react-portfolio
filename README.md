@@ -27,6 +27,7 @@ When the user visits the page for the first time, they are presented with the pa
 
 ## Technologies
 - [Create React App](https://github.com/facebook/create-react-app)
+- [EmailJS](https://www.emailjs.com/)
 - [jest-dom](https://github.com/testing-library/jest-dom)
 - [Node.js](https://nodejs.dev/)
 - [React](https://reactjs.org/)
@@ -43,6 +44,8 @@ This project is licensed under the MIT license.
 Boot Camp Module 20
 
 Boot Camp Tutor Meg Meyers helped with conditionally rendering the different components on the page.
+
+Charles, C. [Chaoo Charles]. (2022, March 23). *React: Send email from contact form without server code - Email.js Tutorial* [Video]. YouTube. [https://youtu.be/bMq2riFCF90](https://youtu.be/bMq2riFCF90)
 
 Coyier, C. (20216, May 25). *Sticky Footer, Five Ways.* CSS-Tricks. [https://css-tricks.com/couple-takes-sticky-footer/](https://css-tricks.com/couple-takes-sticky-footer/)
 
