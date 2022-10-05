@@ -4,6 +4,12 @@ import Project from '../Project';
 function Portfolio() {
     const [projects] = useState([
         {
+            name: 'Where Were You When app homepage',
+            appUrl: 'https://where-were-you-when.herokuapp.com/',
+            repoUrl: 'https://github.com/McAmy2001/Where-Were-You-When',
+            asset: '0-where-were-you-when.png'
+        },
+        {
             name: 'Parkour app homepage',
             appUrl: 'https://parkour-review.herokuapp.com/',
             repoUrl: 'https://github.com/kaylab78/playground-rating-app',
@@ -32,12 +38,6 @@ function Portfolio() {
             appUrl: 'https://kaylab78.github.io/weather-dashboard/',
             repoUrl: 'https://github.com/kaylab78/weather-dashboard',
             asset: '4-weather-dashboard.png'
-        },
-        {
-            name: 'Note taker app homepage',
-            appUrl: 'https://note-taker-20220704.herokuapp.com/',
-            repoUrl: 'https://github.com/kaylab78/note-taker',
-            asset: '5-note-taker.png'
         }
     ]);
 
