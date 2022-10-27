@@ -6,7 +6,7 @@ function About() {
         <section>
             <h1 id="about">About Me</h1>
             <img src={headShot} style={{ width: "20%" }} alt="smiling woman" />
-            <p>I have seven years of experience in traditional and digital marketing and a bachelor of arts in media communications from North Central University. I received a certification in full-stack web development from the University of Minnesota in October 2022. I’ve developed front-end skills with HTML, CSS, JavaScript, and working with APIs, and I’m continuing to refine back-end development skills. I value hard work, clear communication, and I admire organizations that are invested in their team members as much as they are focused on their goals.
+            <p>I'm a full-stack web developer certified through the University of Minnesota. I’ve developed skills with HTML, CSS, JavaScript, APIs, and React. I’ve worked with MySQL and GraphQL. I come to web development with a background in traditional and digital marketing and a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota. I value hard work, clear communication, and I admire organizations that are invested in their team members as much as they are focused on their goals.
             </p>
         </section>
     );
