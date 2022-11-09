@@ -1,9 +1,15 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.e2b2f52c.css",
-    "main.js": "/react-portfolio/static/js/main.af4990d0.js",
+    "main.js": "/react-portfolio/static/js/main.a8ed9af6.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/0-ecommerce-theme.png": "/react-portfolio/static/media/0-ecommerce-theme.8167ad68f39aaf3354e1.png",
+    "static/media/1-symphony-server.png": "/react-portfolio/static/media/1-symphony-server.21e0925498d74e1d23a9.png",
+    "static/media/4-fodc-2022.png": "/react-portfolio/static/media/4-fodc-2022.033afa1d27bfc12a4408.png",
     "static/media/headshot-400x400.png": "/react-portfolio/static/media/headshot-400x400.0f078b23ef8643dc2083.png",
+    "static/media/3-cfg.png": "/react-portfolio/static/media/3-cfg.a9b79e90410a652d02d1.png",
+    "static/media/2-hpwd-our-team.png": "/react-portfolio/static/media/2-hpwd-our-team.2b7b3a8cb6f0cebf648c.png",
+    "static/media/5-fis-archive.png": "/react-portfolio/static/media/5-fis-archive.133561aa5420254c56bf.png",
     "static/media/0-where-were-you-when.png": "/react-portfolio/static/media/0-where-were-you-when.e2212acbe7da9f633a53.png",
     "static/media/4-ecommerce-backend.png": "/react-portfolio/static/media/4-ecommerce-backend.aa54e2ddfeb60f3e6a54.png",
     "static/media/3-tech-blog.png": "/react-portfolio/static/media/3-tech-blog.ae3cbb50b22f72f98148.png",
@@ -13,11 +19,11 @@
     "static/media/6-note-taker.png": "/react-portfolio/static/media/6-note-taker.9c425e0a4d820d08fd1f.png",
     "index.html": "/react-portfolio/index.html",
     "main.e2b2f52c.css.map": "/react-portfolio/static/css/main.e2b2f52c.css.map",
-    "main.af4990d0.js.map": "/react-portfolio/static/js/main.af4990d0.js.map",
+    "main.a8ed9af6.js.map": "/react-portfolio/static/js/main.a8ed9af6.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2b2f52c.css",
-    "static/js/main.af4990d0.js"
+    "static/js/main.a8ed9af6.js"
   ]
 }
