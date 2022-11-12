@@ -80,6 +80,10 @@ nav ul li {
   align-content: center;
 }
 
+.project-col {
+  width: 100%;
+}
+
 .project-title {
   margin-bottom: 2px;
   text-align: center;
@@ -150,5 +154,9 @@ footer ul li a {
   flex-wrap: wrap;
   align-content: center;
   justify-content: space-around;
+}
+
+.project-col {
+  width: 45%;
 }
 }
