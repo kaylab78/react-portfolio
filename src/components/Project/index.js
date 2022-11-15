@@ -5,8 +5,8 @@ const Project = ({ project }) => {
 
     return (
         <div key={name} className="project-col">
-            <h3 className="project-title">{name}</h3>
-            <p className="project-title"><a href={repoUrl}>GitHub</a> • <a href={appUrl}>View Project</a><br/>
+            <p className="project-title"><strong>{name}</strong><br/>
+            <a href={repoUrl}>GitHub</a> • <a href={appUrl}>View Project</a><br/>
             {description}</p>
             <img className="project-img" src={require(`../../assets/projects/${asset}`)} alt={name} />
         </div>
