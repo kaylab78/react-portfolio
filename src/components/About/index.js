@@ -10,7 +10,11 @@ function About() {
             <p>I come to web development with a background in traditional and digital marketing and a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota. I value hard work, clear communication, and I admire organizations that are invested in their team members as much as they are focused on their goals.
             </p>
             <h3>Experience</h3>
-            <p>Digital Marketing Specialist<br/>
+            <p>Full-Stack Web Engineer<br/>
+            HighPower Data Solutions • Minneapolis, MN<br/>
+            Sep. 2022 - Present<br/>
+            <br/>
+            Digital Marketing Specialist<br/>
             Franchise Times • Minneapolis, MN<br/>
             Sep. 2020 - Sep. 2022<br/>
             <br/>
