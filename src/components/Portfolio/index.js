@@ -6,7 +6,7 @@ function Portfolio() {
     const [projects] = useState([
         {
             name: 'Where Were You When',
-            appUrl: 'https://where-were-you-when.herokuapp.com/',
+            appUrl: 'https://hidden-eyrie-35513.herokuapp.com/',
             repoUrl: 'https://github.com/kaylab78/Where-Were-You-When',
             description: 'A MERN stack, single page application that allows a user to record and save their memories. The user can view their own past memories and will be reminded of a memory on the same date that they are using the application.',
             asset: '0-where-were-you-when.png'
