@@ -4,7 +4,7 @@ function Resume() {
     return (
         <section>
             <h1 id="resume">Resume</h1>
-            <a href="https://drive.google.com/file/d/1lN_EEbon4Re7hoKnI1zL4OXqGpmV4L9o/view" target="_blank" rel="noreferrer">Download my resume.</a>
+            <a href="https://drive.google.com/file/d/1NP3DWjrjWDblyjOlFQlDwRYshRqfL5Qr/view?usp=sharing" target="_blank" rel="noreferrer">Download my resume.</a>
             <h2>Skills</h2>
             <ul>
                 <li>HTML5</li>
