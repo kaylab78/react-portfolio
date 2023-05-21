@@ -20,6 +20,8 @@ To clone the repository, type `git clone git@github.com:kaylab78/react-portfolio
 
 Once the repository is cloned, use `npm i` to install the required packages.
 
+To deploy the project after changes are made, use the `npm run build` command in the CLI to build a new project in the build folder. Then run `npm run delpoy` to deploy the project to GitHub pages.
+
 ## Usage
 When the user visits the page for the first time, they are presented with the page header and About Me section. When the user clicks on the Portfolio link in the header, they can view the portfolio projects. When the user clicks on the Contact link in the header, they are presented with a contact form where they can send a message to the owner of the portfolio. When the user clicks on the Resume link in the header, they will see a link to download the portfolio owner's resume. They will also see a list of the owner's skills. In the footer, the user is able to visit the portfolio owner's GitHub profile, LinkedIn profile, and Stack Overflow profile.
 
