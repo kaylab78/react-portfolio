@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6019355e.css",
-    "main.js": "/react-portfolio/static/js/main.105b77d5.js",
+    "main.js": "/react-portfolio/static/js/main.a278ff55.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/0-ecommerce-theme.png": "/react-portfolio/static/media/0-ecommerce-theme.8167ad68f39aaf3354e1.png",
-    "static/media/1-symphony-server.png": "/react-portfolio/static/media/1-symphony-server.21e0925498d74e1d23a9.png",
-    "static/media/4-fodc-2022.png": "/react-portfolio/static/media/4-fodc-2022.033afa1d27bfc12a4408.png",
+    "static/media/7-ecommerce-theme.png": "/react-portfolio/static/media/7-ecommerce-theme.8167ad68f39aaf3354e1.png",
+    "static/media/4-symphony-server.png": "/react-portfolio/static/media/4-symphony-server.21e0925498d74e1d23a9.png",
+    "static/media/5-fodc-2022.png": "/react-portfolio/static/media/5-fodc-2022.033afa1d27bfc12a4408.png",
     "static/media/headshot-400x400.png": "/react-portfolio/static/media/headshot-400x400.0f078b23ef8643dc2083.png",
-    "static/media/3-cfg.png": "/react-portfolio/static/media/3-cfg.a9b79e90410a652d02d1.png",
-    "static/media/2-hpwd-our-team.png": "/react-portfolio/static/media/2-hpwd-our-team.2b7b3a8cb6f0cebf648c.png",
-    "static/media/5-fis-archive.png": "/react-portfolio/static/media/5-fis-archive.133561aa5420254c56bf.png",
+    "static/media/2-cfg.png": "/react-portfolio/static/media/2-cfg.a9b79e90410a652d02d1.png",
+    "static/media/6-fis-archive.png": "/react-portfolio/static/media/6-fis-archive.133561aa5420254c56bf.png",
+    "static/media/1-watson-gallery.png": "/react-portfolio/static/media/1-watson-gallery.f41dad70badd30d5c36a.png",
     "static/media/0-where-were-you-when.png": "/react-portfolio/static/media/0-where-were-you-when.e2212acbe7da9f633a53.png",
-    "static/media/4-ecommerce-backend.png": "/react-portfolio/static/media/4-ecommerce-backend.aa54e2ddfeb60f3e6a54.png",
-    "static/media/3-tech-blog.png": "/react-portfolio/static/media/3-tech-blog.ae3cbb50b22f72f98148.png",
-    "static/media/2-social-api.png": "/react-portfolio/static/media/2-social-api.070d7bd6271dc2952ad1.png",
+    "static/media/0-filemaker-products.png": "/react-portfolio/static/media/0-filemaker-products.1da26a0ad8d25e79a646.png",
+    "static/media/3-hpwd-our-team.png": "/react-portfolio/static/media/3-hpwd-our-team.9707fb1544ea389712cb.png",
+    "static/media/5-ecommerce-backend.png": "/react-portfolio/static/media/5-ecommerce-backend.aa54e2ddfeb60f3e6a54.png",
+    "static/media/4-tech-blog.png": "/react-portfolio/static/media/4-tech-blog.ae3cbb50b22f72f98148.png",
+    "static/media/3-social-api.png": "/react-portfolio/static/media/3-social-api.070d7bd6271dc2952ad1.png",
     "static/media/1-parkour.png": "/react-portfolio/static/media/1-parkour.bc95cd71d70718a7d0cd.png",
-    "static/media/5-weather-dashboard.png": "/react-portfolio/static/media/5-weather-dashboard.cb895595dfec6dbdf950.png",
+    "static/media/2-weather-dashboard.png": "/react-portfolio/static/media/2-weather-dashboard.cb895595dfec6dbdf950.png",
     "static/media/6-note-taker.png": "/react-portfolio/static/media/6-note-taker.9c425e0a4d820d08fd1f.png",
     "index.html": "/react-portfolio/index.html",
     "main.6019355e.css.map": "/react-portfolio/static/css/main.6019355e.css.map",
-    "main.105b77d5.js.map": "/react-portfolio/static/js/main.105b77d5.js.map",
+    "main.a278ff55.js.map": "/react-portfolio/static/js/main.a278ff55.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6019355e.css",
-    "static/js/main.105b77d5.js"
+    "static/js/main.a278ff55.js"
   ]
 }
