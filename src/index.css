@@ -96,6 +96,7 @@ nav ul li {
 
 .project-link {
   color: var(--fourth-color);
+  text-align: center;
 }
 
 /* Contact */

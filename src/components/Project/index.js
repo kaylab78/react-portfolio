@@ -8,9 +8,9 @@ const Project = ({ project }) => {
             <img className="project-img" src={require(`../../assets/projects/${asset}`)} alt={name} />
             <p className="project-title"><strong>{name}</strong></p>
             <div>
-                <a href={repoUrl}>GitHub</a> • <a href={appUrl}>View Project</a>
+                <a href={repoUrl} className="project-link">GitHub</a> • <a href={appUrl}>View Project</a>
                 <p>{description}</p>
-                <p>{tech}</p>
+                <p>Tools: {tech}</p>
             </div>
         </div>
     );
