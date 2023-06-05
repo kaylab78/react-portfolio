@@ -9,28 +9,32 @@ function Portfolio() {
             appUrl: 'https://hidden-eyrie-35513.herokuapp.com/',
             repoUrl: 'https://github.com/kaylab78/Where-Were-You-When',
             description: 'A MERN stack, single page application that allows a user to record and save their memories. The user can view their own past memories and will be reminded of a memory on the same date that they are using the application.',
-            asset: '0-where-were-you-when.png'
+            asset: '0-where-were-you-when.png',
+            tech: 'Apollo Server, bcrypt, Concurrently, CSS, Express.js, Faker, GraphQL, JavaScript, jsonwebtoken, JSX, jwt-decode, MongoDB, Mongoose, Node.js, nodemon, React'
         },
         {
             name: 'P.A.R.K.O.U.R.',
             appUrl: 'https://parkour-review.herokuapp.com/',
             repoUrl: 'https://github.com/kaylab78/playground-rating-app',
             description: "An app designed to help parents and caregivers easily find and give reviews about parks and playgrounds, PARKOUR stands for People Around Rambunctious Kids Openly Utilizing Recreation.",
-            asset: '1-parkour.png'
+            asset: '1-parkour.png',
+            tech: 'autoprefixer, bcrypt, connect-session-sequelize, dotenv, Express.js, express-handlebars, express-session, JavaScript, JawsDB, jest, MySQL2, Node.js, PostCSS, Sequelize, Tailwind CSS'
         },
         {
             name: 'Weather Dashboard',
             appUrl: 'https://kaylab78.github.io/weather-dashboard/',
             repoUrl: 'https://github.com/kaylab78/weather-dashboard',
             description: 'A weather dashboard that allows the user to search for a city and receive the current weather and the five-day forecast. The user can also view their previous city searches.',
-            asset: '2-weather-dashboard.png'
+            asset: '2-weather-dashboard.png',
+            tech: 'CSS, HTML, JavaScript, OpenWeather API'
         },
         {
             name: 'Social Network API',
             appUrl: 'https://youtu.be/eYGa59kQyzg',
             repoUrl: 'https://github.com/kaylab78/social-network-api',
             description: 'The back end API for a social media app that uses a NoSQL database. Routes can be tested in Insomnia.',
-            asset: '3-social-api.png'
+            asset: '3-social-api.png',
+            tech: 'Express.js, JavaScript, MongoDB, Mongoose, Node.js'
         }
     ]);
 

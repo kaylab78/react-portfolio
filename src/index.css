@@ -84,14 +84,18 @@ nav ul li {
   width: 100%;
 }
 
+.project-img {
+  width: 100%;
+  margin-top: 10px;
+}
+
 .project-title {
   margin-bottom: 2px;
   text-align: center;
 }
 
-.project-img {
-  width: 100%;
-  margin-bottom: 10px;
+.project-link {
+  color: var(--fourth-color);
 }
 
 /* Contact */
