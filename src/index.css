@@ -91,12 +91,10 @@ nav ul li {
 
 .project-title {
   margin-bottom: 2px;
-  text-align: center;
 }
 
 .project-link {
   color: var(--fourth-color);
-  text-align: center;
 }
 
 /* Contact */
