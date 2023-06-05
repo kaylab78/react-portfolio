@@ -36,7 +36,7 @@ When the user visits the page for the first time, they are presented with the pa
 - [React Testing Library](https://www.npmjs.com/package/@testing-library/react)
 
 ## License
-&copy; 2022 by Kayla Backus
+&copy; 2023 by Kayla Backus
 
 This project is licensed under the MIT license.
 
