@@ -12,7 +12,7 @@ function About() {
             <h3>Experience</h3>
             <p>Full-Stack Web Engineer<br/>
             HighPower Data Solutions • Minneapolis, MN<br/>
-            Sep. 2022 - Present<br/>
+            Sep. 2022 - June 2023<br/>
             <br/>
             Digital Marketing Specialist<br/>
             Franchise Times • Minneapolis, MN<br/>
@@ -28,9 +28,9 @@ function About() {
             <br/>
             Marketng Operations Assistant<br/>
             Andersen Corporation • Bayport, MN<br/>
-            Jul. 2015 - Aug. 2016
+            July 2015 - Aug. 2016
             </p>
-            <h3>Certification</h3>
+            <h3>Certificate</h3>
             <p>Full Stack Web Development Certificate<br/>
             University of Minnesota • Minneapolis, MN<br/>
             Issued October 2022
