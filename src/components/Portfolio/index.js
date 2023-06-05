@@ -44,24 +44,28 @@ function Portfolio() {
             url: 'https://filemaker-products.com/',
             description: 'I did a complete redesign of this Wordpress website taking it from an outdated design to a sleek, modern website that the client is proud of. I used Oxygen Builder to design page templates, and I used the copy from the old website within the new page templates.',
             asset: '0-filemaker-products.png',
+            tech: 'Wordpress, Oxygen Builder, JavaScript'
         },
         {
             name: 'Alfred Watson Gallery',
             url: 'https://watsongallery.com/',
             description: 'This client asked for assistance editing and setting up her e-commerce website. Using the block editor on Wordpress, I designed the different pages according to the client’s specifications. I also set up the e-commerce functionality using WooCommerce.',
             asset: '1-watson-gallery.png',
+            tech: 'Wordpress, Woocommerce, CSS'
         },
         {
             name: 'Contemporary Furnishings by Granby',
             url: 'http://granbyinc.com/',
             description: 'I updated the photos in the slider on the homepage by uploading the new photos to the CMS and editing the JavaScript function and the HTML so that the new photos would appear. I added additional vendor logos and links in the HTML file for that webpage.',
             asset: '2-cfg.png',
+            tech: 'HTML, JavaScript, CMS'
         },
         {
             name: 'HighPower Web Design | Our Team',
             url: 'https://highpower-design.com/our-team/',
             description: 'I designed and built a portfolio page and a team page for our company website. This website was built on a custom WordPress template, so I had to study the PHP files in order to add functionality for new pages. I styled the pages with CSS to be mobile responsive.',
             asset: '3-hpwd-our-team.png',
+            tech: 'Wordpress, PHP, HTML, CSS'
         }
     ]);
 
