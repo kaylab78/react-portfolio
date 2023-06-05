@@ -38,7 +38,7 @@ function About() {
             <h3>Education</h3>
             <p>Bachelor of Arts Media Communications<br/>
             North Central University • Minneapolis, MN<br/>
-            Completed May 2022<br/>
+            Completed May 2015<br/>
             Valedictorian, Summa Cum Laude
             </p>
         </section>
