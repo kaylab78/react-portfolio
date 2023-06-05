@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.6019355e.css",
-    "main.js": "/react-portfolio/static/js/main.f0cde965.js",
+    "main.css": "/react-portfolio/static/css/main.19241ac2.css",
+    "main.js": "/react-portfolio/static/js/main.adf93edd.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/7-ecommerce-theme.png": "/react-portfolio/static/media/7-ecommerce-theme.8167ad68f39aaf3354e1.png",
     "static/media/4-symphony-server.png": "/react-portfolio/static/media/4-symphony-server.21e0925498d74e1d23a9.png",
@@ -20,12 +20,12 @@
     "static/media/2-weather-dashboard.png": "/react-portfolio/static/media/2-weather-dashboard.cb895595dfec6dbdf950.png",
     "static/media/6-note-taker.png": "/react-portfolio/static/media/6-note-taker.9c425e0a4d820d08fd1f.png",
     "index.html": "/react-portfolio/index.html",
-    "main.6019355e.css.map": "/react-portfolio/static/css/main.6019355e.css.map",
-    "main.f0cde965.js.map": "/react-portfolio/static/js/main.f0cde965.js.map",
+    "main.19241ac2.css.map": "/react-portfolio/static/css/main.19241ac2.css.map",
+    "main.adf93edd.js.map": "/react-portfolio/static/js/main.adf93edd.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6019355e.css",
-    "static/js/main.f0cde965.js"
+    "static/css/main.19241ac2.css",
+    "static/js/main.adf93edd.js"
   ]
 }
