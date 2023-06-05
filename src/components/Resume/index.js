@@ -17,7 +17,7 @@ function Resume() {
                 <li>MySQL</li>
                 <li>Bootstrap</li>
                 <li>Wordpress</li>
-                <li>TownNew BLOX CMS</li>
+                <li>TownNews BLOX CMS</li>
                 <li>GitHub</li>
                 <li>Git</li>
                 <li>Heroku</li>
