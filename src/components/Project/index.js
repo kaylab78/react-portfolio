@@ -10,7 +10,7 @@ const Project = ({ project }) => {
             <div>
                 <a href={repoUrl} className="project-link">GitHub</a> • <a href={appUrl}>View Project</a>
                 <p>{description}</p>
-                <p>Tools: {tech}</p>
+                <p>Technologies: {tech}</p>
             </div>
         </div>
     );

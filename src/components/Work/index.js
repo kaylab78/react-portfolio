@@ -9,7 +9,7 @@ const Work = ({ work }) => {
             <p className="project-title"><strong>{name}</strong></p>
             <a href={url}>View Website</a>
             <p>{description}</p>
-            <p>{tech}</p>
+            <p>Technologies: {tech}</p>
         </div>
     );
 };
