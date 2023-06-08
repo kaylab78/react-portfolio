@@ -72,6 +72,11 @@ nav ul li {
   padding: 50px 30px;
 }
 
+/* About */
+.about-flex {
+  display: flex;
+}
+
 /* Portfolio */
 .project-flex {
   display: flex;

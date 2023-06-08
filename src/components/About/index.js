@@ -3,7 +3,7 @@ import headShot from '../../assets/headshot-400x400.png';
 
 function About() {
     return (
-        <section className="project-flex">
+        <section className="about-flex">
             <div>
                 <h1 id="about">About Me</h1>
                 <img src={headShot} style={{ width: "20%" }} alt="smiling woman" />
