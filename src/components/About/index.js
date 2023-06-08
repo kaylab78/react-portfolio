@@ -8,7 +8,7 @@ function About() {
                 <h1 id="about">About Me</h1>
             </div>
             <div className="half-width">
-                <img src={headShot} style={{ width: "80%" }} alt="smiling woman" />
+                <img src={headShot} style={{ width: "50%" }} alt="smiling woman" />
             </div>
             <div className="half-width">
                 <p>I’m a full-stack web developer certified through the University of Minnesota. I completed a six month coding boot camp on October 6, 2022. Through the curriculum I developed skills with HTML, CSS, JavaScript, APIs, and React. I also worked with MySQL and GraphQL.</p>
