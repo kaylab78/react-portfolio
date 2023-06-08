@@ -77,6 +77,14 @@ nav ul li {
   display: flex;
 }
 
+.full-width {
+  width: 100%;
+}
+
+.half-width {
+  width: 50%;
+}
+
 /* Portfolio */
 .project-flex {
   display: flex;
