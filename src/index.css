@@ -79,7 +79,7 @@ nav ul li {
 }
 
 .headshot {
-  width: 40%;
+  width: 70%;
 }
 
 /* Portfolio */
@@ -159,7 +159,6 @@ footer ul li a {
   text-decoration: none;
 }
 
-/* Media Query for devices larger than 980px */
 /* Media Query for devices larger than 768px */
 @media screen and (min-width: 768px) {
   /* About */
