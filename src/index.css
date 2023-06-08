@@ -75,23 +75,11 @@ nav ul li {
 /* About */
 .about-flex {
   display: flex;
-  flex-wrap: wrap;
-}
-
-.full-width {
-  width: 100%;
-}
-
-.half-width {
-  width: 50%;
+  flex-direction: row;
 }
 
 .headshot {
   width: 30%;
-}
-
-.bio {
-  width: 70%;
 }
 
 /* Portfolio */
@@ -172,17 +160,40 @@ footer ul li a {
 }
 
 /* Media Query for devices larger than 980px */
-@media screen and (min-width: 980px) {
-/* Portfolio */
-.project-flex {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: space-around;
-}
+/* Media Query for devices larger than 768px */
+@media screen and (min-width: 768px) {
+  /* About */
+  .about-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .half-width {
+    width: 50%;
+  }
+  
+  .headshot {
+    width: 30%;
+  }
+  
+  .bio {
+    width: 70%;
+  }
 
-.project-col {
-  width: 45%;
-}
+  /* Portfolio */
+  .project-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+  }
+
+  .project-col {
+    width: 45%;
+  }
 }
