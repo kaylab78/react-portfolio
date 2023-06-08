@@ -33,7 +33,8 @@ function About() {
             <h3>Certificate</h3>
             <p>Full Stack Web Development Certificate<br/>
             University of Minnesota • Minneapolis, MN<br/>
-            Issued October 2022
+            Issued October 2022<br/>
+            <a href="https://www.credly.com/badges/65142cc7-0842-41ab-9109-1b29794cbe84/" target="_blank" className="project-link">View certificate details</a>
             </p>
             <h3>Education</h3>
             <p>Bachelor of Arts Media Communications<br/>
