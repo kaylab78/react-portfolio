@@ -10,7 +10,7 @@ function About() {
             <div className="headshot">
                 <img src={headShot} alt="smiling woman" />
             </div>
-            <div>
+            <div className="bio">
                 <p>I’m a full-stack web developer certified through the University of Minnesota. I completed a six month coding boot camp on October 6, 2022. Through the curriculum I developed skills with HTML, CSS, JavaScript, APIs, and React. I also worked with MySQL and GraphQL.</p>
                 <p>I’m looking to grow my skill set and be part of a team with a diverse knowledge base. I value hard work, reliability and clear communication. I admire organizations that are invested in their team members as much as they are focused on their goals.</p>
                 <p>Prior to beginning the coding boot camp on April 21, 2022, I worked in digital marketing. I have seven years of professional experience in traditional and digital marketing. I received a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota in 2015. I’m passionate about web development, which is why I made a career change.</p>

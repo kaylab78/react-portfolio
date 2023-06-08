@@ -90,6 +90,10 @@ nav ul li {
   width: 40%;
 }
 
+.bio {
+  width: 60%;
+}
+
 /* Portfolio */
 .project-flex {
   display: flex;
