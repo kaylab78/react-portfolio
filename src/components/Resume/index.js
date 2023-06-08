@@ -4,7 +4,7 @@ function Resume() {
     return (
         <section>
             <h1 id="resume">Resume</h1>
-            <a href="https://drive.google.com/file/d/1miGUensbAkfBLAUGVByi_vUk_t8zDvuF/view?usp=sharing" target="_blank" rel="noreferrer">Download my resume.</a>
+            <a href="https://drive.google.com/file/d/1s1HpXmSdxkki2VL5hQ9-BIK0skCIJJgG/view?usp=sharing" target="_blank" rel="noreferrer">Download my resume.</a>
             <h2>Skills</h2>
             <ul>
                 <li>HTML5</li>
@@ -17,14 +17,15 @@ function Resume() {
                 <li>MySQL</li>
                 <li>Bootstrap</li>
                 <li>Wordpress</li>
-                <li>TownNews BLOX CMS</li>
+                <li>Oxygen Builder</li>
+                <li>Woocommerce</li>
+                <li>Stripe</li>
+                <li>TownNews CMS</li>
                 <li>GitHub</li>
                 <li>Git</li>
                 <li>Heroku</li>
                 <li>VS Code</li>
                 <li>Insomnia</li>
-                <li>Wordpress</li>
-                <li>Oxygen Builder</li>
             </ul>
         </section>
     )
