@@ -8,7 +8,7 @@ const Project = ({ project }) => {
             <img className="project-img" src={require(`../../assets/projects/${asset}`)} alt={name} />
             <p className="project-title"><strong>{name}</strong></p>
             <div>
-                <a href={repoUrl} target="_blank" className="project-link">GitHub</a> • <a href={appUrl} target="_blank" className="project-link">View Project</a>
+                <a href={repoUrl} target="_blank" rel="noreferrer" className="project-link">GitHub</a> • <a href={appUrl} target="_blank" rel="noreferrer" className="project-link">View Project</a>
                 <p>{description}</p>
                 <p>Technologies: {tech}</p>
             </div>

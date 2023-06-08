@@ -86,6 +86,10 @@ nav ul li {
   width: 50%;
 }
 
+.headshot {
+  width: 40%;
+}
+
 /* Portfolio */
 .project-flex {
   display: flex;

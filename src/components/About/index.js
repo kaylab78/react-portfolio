@@ -7,10 +7,10 @@ function About() {
             <div className="full-width">
                 <h1 id="about">About Me</h1>
             </div>
-            <div className="half-width">
-                <img src={headShot} style={{ width: "50%" }} alt="smiling woman" />
+            <div className="headshot">
+                <img src={headShot} alt="smiling woman" />
             </div>
-            <div className="half-width">
+            <div>
                 <p>I’m a full-stack web developer certified through the University of Minnesota. I completed a six month coding boot camp on October 6, 2022. Through the curriculum I developed skills with HTML, CSS, JavaScript, APIs, and React. I also worked with MySQL and GraphQL.</p>
                 <p>I’m looking to grow my skill set and be part of a team with a diverse knowledge base. I value hard work, reliability and clear communication. I admire organizations that are invested in their team members as much as they are focused on their goals.</p>
                 <p>Prior to beginning the coding boot camp on April 21, 2022, I worked in digital marketing. I have seven years of professional experience in traditional and digital marketing. I received a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota in 2015. I’m passionate about web development, which is why I made a career change.</p>
@@ -43,7 +43,7 @@ function About() {
                 <p>Full Stack Web Development Certificate<br/>
                 University of Minnesota • Minneapolis, MN<br/>
                 Issued October 2022<br/>
-                <a href="https://www.credly.com/badges/65142cc7-0842-41ab-9109-1b29794cbe84/" target="_blank" className="project-link">View certificate details</a>
+                <a href="https://www.credly.com/badges/65142cc7-0842-41ab-9109-1b29794cbe84/" target="_blank" rel="noreferrer" className="project-link">View certificate details</a>
                 </p>
                 <h3>Education</h3>
                 <p>Bachelor of Arts Media Communications<br/>
