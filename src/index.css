@@ -75,11 +75,11 @@ nav ul li {
 /* About */
 .about-flex {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
 .headshot {
-  width: 30%;
+  width: 40%;
 }
 
 /* Portfolio */
