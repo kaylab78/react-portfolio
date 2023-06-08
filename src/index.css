@@ -166,6 +166,7 @@ footer ul li a {
   .about-flex {
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
   }
   
   .full-width {
