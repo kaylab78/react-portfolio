@@ -75,6 +75,7 @@ nav ul li {
 /* About */
 .about-flex {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .full-width {
