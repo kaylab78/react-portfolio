@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.44968806.css",
-    "main.js": "/react-portfolio/static/js/main.f2c85ff7.js",
+    "main.js": "/react-portfolio/static/js/main.27ee2962.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/7-ecommerce-theme.png": "/react-portfolio/static/media/7-ecommerce-theme.8167ad68f39aaf3354e1.png",
     "static/media/4-symphony-server.png": "/react-portfolio/static/media/4-symphony-server.21e0925498d74e1d23a9.png",
     "static/media/5-fodc-2022.png": "/react-portfolio/static/media/5-fodc-2022.033afa1d27bfc12a4408.png",
-    "static/media/headshot-400x400.png": "/react-portfolio/static/media/headshot-400x400.0f078b23ef8643dc2083.png",
+    "static/media/headshot-400x400.png": "/react-portfolio/static/media/headshot-400x400.60c8b8ae946edb54ce95.png",
     "static/media/2-cfg.png": "/react-portfolio/static/media/2-cfg.a9b79e90410a652d02d1.png",
     "static/media/6-fis-archive.png": "/react-portfolio/static/media/6-fis-archive.133561aa5420254c56bf.png",
     "static/media/1-watson-gallery.png": "/react-portfolio/static/media/1-watson-gallery.f41dad70badd30d5c36a.png",
@@ -21,11 +21,11 @@
     "static/media/6-note-taker.png": "/react-portfolio/static/media/6-note-taker.9c425e0a4d820d08fd1f.png",
     "index.html": "/react-portfolio/index.html",
     "main.44968806.css.map": "/react-portfolio/static/css/main.44968806.css.map",
-    "main.f2c85ff7.js.map": "/react-portfolio/static/js/main.f2c85ff7.js.map",
+    "main.27ee2962.js.map": "/react-portfolio/static/js/main.27ee2962.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44968806.css",
-    "static/js/main.f2c85ff7.js"
+    "static/js/main.27ee2962.js"
   ]
 }
