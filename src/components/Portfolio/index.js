@@ -40,10 +40,10 @@ function Portfolio() {
 
     const [work] = useState([
         {
-            name: 'FileMaker Products',
-            url: 'https://filemaker-products.com/',
-            description: 'I did a complete redesign of this Wordpress website taking it from an outdated design to a sleek, modern website that the client is proud of. I used Oxygen Builder to design page templates, and I used the copy from the old website within the new page templates.',
-            asset: '0-filemaker-products.png',
+            name: 'CodeWeavers Unleash Landing Pages',
+            url: 'https://www.codeweavers.com/unleash/diablo-iv-on-mac',
+            description: 'I built a landing page template for the "Unleash" marketing campaign using PHP, CSS and JavaScript. The landing pages were then created using a table structure where titles, game descriptions, specs and images are entered.',
+            asset: '0-codeweavers-unleash.png',
             tech: 'Wordpress, Oxygen Builder, JavaScript'
         },
         {
