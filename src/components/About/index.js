@@ -11,13 +11,17 @@ function About() {
                 <img src={headShot} style={{ width: "90%" }} alt="smiling woman" />
             </div>
             <div className="bio">
-                <p>I’m a full-stack web developer with a certificate from the University of Minnesota. I completed a six month coding boot camp on October 6, 2022. Through the curriculum I improved my skills in HTML, CSS, and Javascript, and I was introduced to other languages, frameworks and tools like React, Express.js, Node.js, SQL, MySQL, MongoDB, and GraphQL.</p>
-                <p>I’m looking to grow my skill set and be part of a team with a diverse knowledge base. I value hard work, reliability and clear communication. I admire organizations that are invested in their team members as much as they are focused on their goals.</p>
-                <p>Prior to beginning the coding boot camp on April 21, 2022, I worked in digital marketing. I have seven years of professional experience in traditional and digital marketing. I received a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota in 2015. I’m passionate about web development, which is why I made a career change.</p>
+                <p>I’m a full-stack web developer with a certificate from the University of Minnesota. I completed a six month coding boot camp in 2022. Through the curriculum I improved my skills in HTML, CSS, and Javascript, and I was introduced to other languages, frameworks and tools like React, Express.js, Node.js, SQL, MySQL, MongoDB, and GraphQL.</p>
+                <p>I’m eager to join a company that prioritizes employee development and fosters a culture of open communication and collaboration. The opportunity to work alongside a diverse and knowledgeable team is essential to continuous learning and professional growth in web development. I’m passionate about the dynamic innovations within web development and am dedicated to contributing my hard work, reliability, and effective communication skills to the success of the team and the organization.</p>
+                <p>Prior to my career change in web development, I worked in marketing. I have seven years of professional experience in traditional, digital and email marketing. I received a bachelor of arts in media communications from North Central University in Minneapolis, Minnesota in 2015.</p>
             </div>
             <div className="half-width">
                 <h3>Experience</h3>
-                <p>Full-Stack Web Engineer<br/>
+                <p>Web Developer<br/>
+                CodeWeavers • St. Paul, MN<br/>
+                July 2023 - Oct. 2023<br/>
+                <br/>
+                Full-Stack Web Engineer<br/>
                 HighPower Data Solutions • Minneapolis, MN<br/>
                 Sep. 2022 - June 2023<br/>
                 <br/>
