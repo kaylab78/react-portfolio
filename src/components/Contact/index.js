@@ -62,7 +62,6 @@ function Contact() {
   return (
     <section>
       <h1 id="contact">Contact Me</h1>
-      <p>kaylabackus78@gmail.com</p>
       <form id="contact-form" className="contact-flex" onSubmit={sendEmail} ref={form}>
         <div className="field-padding">
           <label htmlFor="name">Name</label>
